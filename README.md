@@ -1,4 +1,4 @@
-# Tic-Tac-Toe_Python_GUI
+# Tic-Tac-Toe
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <br> <br>
